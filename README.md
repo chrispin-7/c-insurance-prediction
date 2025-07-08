@@ -11,9 +11,4 @@ This Streamlit web application predicts health insurance premium costs based on 
 - Motivational insurance quotes after prediction.
 - Lightweight and easy to deploy using Streamlit.
 
-## 🚀 How to Run
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/insurance-prediction-app.git
-   cd insurance-prediction-app
